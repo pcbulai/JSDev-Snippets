@@ -1,4 +1,4 @@
-This is a [Sublime Text][sublime] package which includes a crapload of jQuery an JS snippets.
+This is a [Sublime Text](http://www.sublimetext.com/3) package which includes a crapload of jQuery an JS snippets.
 
 ## Installation ##
 
