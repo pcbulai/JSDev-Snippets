@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[if(typeof ${1:functionName} == 'function') {
+  $1();
+}]]></content>
+  <tabTrigger>1func</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>Test if function exists</description>
+</snippet>

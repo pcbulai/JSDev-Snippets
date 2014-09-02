@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[.each(function(${2:index, element}){
+  $0
+});]]></content>
+  <tabTrigger>.each</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>Iterate through jQuery elements</description>
+</snippet>

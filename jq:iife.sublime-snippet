@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA["use strict";
+
+;(function (\$, window, document, undefined) \{
+  $0
+\})(jQuery, window, document);
+]]></content>
+  <tabTrigger>$iife</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>jQuery IIFE</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[var \$this = \$(this);
+$1]]></content>
+  <tabTrigger>$self</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>Store $(this) in a variable</description>
+</snippet>

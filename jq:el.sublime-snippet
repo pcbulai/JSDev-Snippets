@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[\$('${1}')$0;]]></content>
+  <tabTrigger>$el</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>Pass an element to jQuery</description>
+</snippet>

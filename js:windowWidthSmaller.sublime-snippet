@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[if (window.innerWidth <= ${1:640}) \{
+  $0
+\}]]>
+  </content>
+  <tabTrigger>!wiw</tabTrigger>
+  <scope> source.js, source.js.embedded.html </scope>
+  <description>Do something if browser width blah</description>
+</snippet>

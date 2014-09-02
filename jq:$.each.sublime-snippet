@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[\$.each(${1:arr}, function(${2:key, value}){
+  $0;
+});]]></content>
+  <tabTrigger>$each</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>Iterate over arrays or objects</description>
+</snippet>

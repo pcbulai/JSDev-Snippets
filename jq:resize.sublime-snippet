@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[\$(window).on('resize', function () {
+  $0
+});]]></content>
+  <tabTrigger>$resize</tabTrigger>
+  <scope>source.js,source.js.embedded.html</scope>
+  <description>Log it!</description>
+</snippet>
